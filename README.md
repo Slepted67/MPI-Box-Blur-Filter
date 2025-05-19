@@ -12,7 +12,6 @@ This project implements a parallel box blur filter using MPI. The program reads 
 - C (with MPI)
 - OpenMPI
 - PBS for batch job scheduling (tested on a cluster)
-- Python (for graphing runtime results)
 
 ## 📈 What I Learned
 - How to distribute image data across MPI processes
